@@ -1,0 +1,1 @@
+该仓库为Windows的Release版 请用windows操作系统打开exe
